@@ -1,0 +1,255 @@
+{
+  "Report_Header": {
+    "Report_Name": "Dataset Report",
+    "Customer_ID": 3838,
+    "Report_ID": "DSR_12",
+    "Release": "RD1",
+    "Exceptions": [
+      {
+        "Code": 3040,
+        "Severity": "Warning",
+        "Message": "Partial data returned.",
+        "Help_URL": "http://noggin.the.cat.com/reports/help",
+        "Data": "Usage data has not been processed for all requested months."
+      }
+    ],
+    "Reporting_Period": {
+      "Begin_Date": "2018-03-01",
+      "End_Date": "2018-03-31"
+    }
+  },
+  "Report_Items": [
+    {
+      "Dataset_Title": "Data for Sensors Detecting Salmon Spawning",
+      "Publisher": "UC Berkeley",
+      "Publisher_ID": {
+        "Type": "ORCID",
+        "Value": "1234-1234-1234-1234"
+      },
+      "Creators": [
+        "Morgan Dunbar",
+        "Gloria Jones",
+        "Rolando Zagheni"
+      ],
+      "Publication_Date": "2017-10-01",
+      "Dataset_Version": 1,
+      "DOI": "10.5072/FK26M39V16",
+      "Other_IDs": [
+        {
+          "Type": "ARK",
+          "Value": "99999/fk4g45133k"
+        }
+      ],
+      "URI": "https://dash-stg.ucop.edu/stash/dataset/doi:10.5072/FK26M39V16",
+      "YOP": 2017,
+      "Performance": [
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "ALB"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 1,
+            "Unique_Investigations": 1,
+            "Dataset_Requests": 1,
+            "Request_Size": 1000,
+            "Unique_Requests": 1,
+            "Unique_Request_Size": 1000
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "DEU"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 11,
+            "Unique_Investigations": 8,
+            "Dataset_Requests": 5,
+            "Request_Size": 5000,
+            "Unique_Requests": 3,
+            "Unique_Request_Size": 3000
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Machine",
+            "Country": "DEU"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 3,
+            "Unique_Investigations": 1,
+            "Dataset_Requests": 1,
+            "Request_Size": 500,
+            "Unique_Requests": 1,
+            "Unique_Request_Size": 500
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "JPN"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 16,
+            "Unique_Investigations": 11,
+            "Dataset_Requests": 4,
+            "Request_Size": 4000,
+            "Unique_Requests": 2,
+            "Unique_Request_Size": 2000
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Machine",
+            "Country": "JPN"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 1,
+            "Unique_Investigations": 1,
+            "Dataset_Requests": 1,
+            "Request_Size": 1000,
+            "Unique_Requests": 1,
+            "Unique_Request_Size": 1000
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "RUS"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 2,
+            "Unique_Investigations": 2,
+            "Dataset_Requests": 0,
+            "Request_Size": 0,
+            "Unique_Requests": 0,
+            "Unique_Request_Size": 0
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Machine",
+            "Country": "RUS"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 87,
+            "Unique_Investigations": 52,
+            "Dataset_Requests": 39,
+            "Request_Size": 39000,
+            "Unique_Requests": 30,
+            "Unique_Request_Size": 30000
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "USA"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 21,
+            "Unique_Investigations": 9,
+            "Dataset_Requests": 5,
+            "Request_Size": 5000,
+            "Unique_Requests": 2,
+            "Unique_Request_Size": 2000
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Machine",
+            "Country": "USA"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 5,
+            "Unique_Investigations": 2,
+            "Dataset_Requests": 2,
+            "Request_Size": 2000,
+            "Unique_Requests": 1,
+            "Unique_Request_Size": 1000
+          }
+        }
+      ]
+    },
+    {
+      "Dataset_Title": "A Methodology for the Deployment of Kernels",
+      "Publisher": "UC Los Angeles",
+      "Publisher_ID": {
+        "Type": "ORCID",
+        "Value": "1234-5678-3827-2874"
+      },
+      "Creators": [
+        "Grover McWhorter"
+      ],
+      "Publication_Date": "2018-01-05",
+      "Dataset_Version": 2,
+      "DOI": "10.5072/FK2F47PK32",
+      "Other_IDs": [
+        {
+          "Type": "ARK",
+          "Value": "99999/fk4g45188n"
+        }
+      ],
+      "URI": "https://dash-stg.ucop.edu/stash/dataset/doi:10.5072/FK2F47PK32",
+      "YOP": 2018,
+      "Performance": [
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "ASM"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 1,
+            "Unique_Investigations": 1,
+            "Dataset_Requests": 0,
+            "Request_Size": 0,
+            "Unique_Requests": 0,
+            "Unique_Request_Size": 0
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "ECU"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 2,
+            "Unique_Investigations": 1,
+            "Dataset_Requests": 1,
+            "Request_Size": 1724,
+            "Unique_Requests": 1,
+            "Unique_Request_Size": 1724
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Regular",
+            "Country": "USA"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 37,
+            "Unique_Investigations": 33,
+            "Dataset_Requests": 7,
+            "Request_Size": 10527,
+            "Unique_Requests": 3,
+            "Unique_Request_Size": 4333
+          }
+        },
+        {
+          "Facets": {
+            "Access_Method": "Machine",
+            "Country": "USA"
+          },
+          "Metrics": {
+            "Dataset_Investigations": 5,
+            "Unique_Investigations": 5,
+            "Dataset_Requests": 3,
+            "Request_Size": 9382,
+            "Unique_Requests": 2,
+            "Unique_Request_Size": 4188
+          }
+        }
+      ]
+    }
+  ]
+}
